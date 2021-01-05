@@ -1,0 +1,12 @@
+Pops Kellogs 3.50 25 Cereal
+HoneyC Post 4.50 25 Cereal
+Eggs Farm 3.00 200 Dairy
+Eggs Organics 5.50 100 Dairy
+Milk Farm 5.50 40 Dairy
+Milk Organics 6.50 30 Dairy
+Bread SMan 2.25 30 Breakfast
+BBQChips Lays 3.10 50 Snacks
+PChips Lays 2.10 50 Snacks
+SChips Doritos 3.40 50 Snacks
+Cheese CGuy 1.00 40 Snacks
+Chocolate Hersheys 1.50 65 Snacks
